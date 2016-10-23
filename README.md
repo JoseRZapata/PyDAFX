@@ -27,28 +27,28 @@ Software and packages
 
 Chapters
 --------
-1. [X] [Introduction](https://github.com/JoseRZapata/PyDAFX/tree/master/01_Introduction)
+1. [X] 1. [Introduction](https://github.com/JoseRZapata/PyDAFX/tree/master/01_Introduction)
  	
-2. [] Filters and delays (Not yet)
+2. [ ] Filters and delays (Not yet)
 
-3. [] Modulators and demodulators (No Code from the book) 
+3. [ ] Modulators and demodulators (No Code from the book) 
  
-4. [] Nonlinear processing (Not yet)
+4. [ ] Nonlinear processing (Not yet)
  	
-5. [] Spatial effects (Not yet)
+5. [ ] Spatial effects (Not yet)
  	
-6. [] Time-segment processing (Not yet)
+6. [ ] Time-segment processing (Not yet)
 
-7. [] Time-frequency processing (Not yet)
+7. [ ] Time-frequency processing (Not yet)
 
-8. [] Source-filter processing (Not yet)
+8. [ ] Source-filter processing (Not yet)
  	
-9. [] Adaptive digital audio effects (Not yet)
+9. [ ] Adaptive digital audio effects (Not yet)
  	
-10. [] Spectral processing (Not yet, but you can find the implementation in https://github.com/MTG/sms-tools)
+10. [ ] Spectral processing (Not yet, but you can find the implementation in https://github.com/MTG/sms-tools)
  	
-11. [] Time and frequency-warping musical signals (Not yet)
+11. [ ] Time and frequency-warping musical signals (Not yet)
  	
-12. Virtual analog effects (Not yet)
+12. [ ] Virtual analog effects (Not yet)
 
-13. Automatic mixing (Not yet)
+13. [ ] Automatic mixing (Not yet)
