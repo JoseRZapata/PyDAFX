@@ -29,9 +29,9 @@ Chapters
 --------
 - [X] 1. [Introduction](https://github.com/JoseRZapata/PyDAFX/tree/master/01_Introduction)
  	
-- [] 2. Filters and delays
+- [ ] 2. Filters and delays
 
-- [ ] 3. Modulators and demodulators (No Code from the book) 
+- [ ] 3. Modulators and demodulators (No Matlab code from the book) 
  
 - [ ] 4. Nonlinear processing
  	
