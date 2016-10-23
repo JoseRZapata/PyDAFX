@@ -1,9 +1,12 @@
 PyDAFX (Python implementation of DAFX Matlab code)
 ========================================================== 
+
 In order to study the theory and code of the book DAFX - Digital Audio Effects and python for audio processing,
 i'm doing the Python implementation of the MATLAB code from the book.
 
-The code is unfinished, i'm doing this exercise in my free time, so i will take some time to finish all the code.
+<b>Run the code for this Repo on Binder:</b> [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/joserzapata/pydafx)
+
+This is a work in progress, the code is unfinished,  i'm doing this exercise in my free time.
 
 I hope that you can find this code useful!
 
@@ -45,7 +48,7 @@ Chapters
  	
 9. Adaptive digital audio effects (Not yet)
  	
-10. Spectral processing (Not yet, but you can find the implementations in https://github.com/MTG/sms-tools)
+10. Spectral processing (Not yet, but you can find the implementation in https://github.com/MTG/sms-tools)
  	
 11. Time and frequency-warping musical signals (Not yet)
  	
