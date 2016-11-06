@@ -17,7 +17,7 @@ Matlab files source: http://ant-s4.unibw-hamburg.de/dafx/DAFX_Book_Page_2nd_edit
 
 Chapters
 --------
-- [X] 1. [Introduction](https://github.com/JoseRZapata/PyDAFX/tree/master/01_Introduction)
+- [X] 1. [Introduction](01_Introduction)
  	
 - [ ] 2. Filters and delays
 
