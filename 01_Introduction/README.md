@@ -23,7 +23,7 @@ Code
  
 4. [figure1_19](figure1_19.ipynb) - Reduction of the leakage effect by window functions.
 
-5. [figure1_22](figure1_22.ipynb) - Waterfall representation via FFT of weighted segments.
+5. [figure1_22](figure1_22.ipynb) - Waterfall representation via FFT of weighted segments and spectrogram.
  	
 6. [figure1_33](figure1_33.ipynb) - FIR system: (a) impulse response, (b) magnitude response, (c) pole/zero plot and (d) phase response
  	
