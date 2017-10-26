@@ -4,7 +4,7 @@
 In order to study the theory and code of the book DAFX - Digital Audio Effects and python for audio processing,
 I'm doing the Python implementation of the MATLAB code from the book.
 
-#<b>Run the code for this Repo on Binder:</b> [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/joserzapata/pydafx)
+#(<b>Run the code for this Repo on Binder:</b> [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/joserzapata/pydafx))
 
 Book Reference:
 <b>DAFX - Digital Audio Effects</b> <br>
@@ -15,6 +15,7 @@ Matlab files source: http://ant-s4.unibw-hamburg.de/dafx/DAFX_Book_Page_2nd_edit
 
 Code
 --------
+Links to nbviewer.jupyter.org
 1. [figure1_03](http://nbviewer.jupyter.org/github/JoseRZapata/PyDAFX/blob/master/01_Introduction/figure1_03.ipynb) - Different time representations for digital audio signals. **(it has to be called figure1_12)**
  	
 2. [figure1_17](http://nbviewer.jupyter.org/github/JoseRZapata/PyDAFX/blob/master/01_Introduction/figure1_17.ipynb) - Zero-padding to increase frequency resolution.
