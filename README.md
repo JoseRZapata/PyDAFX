@@ -4,8 +4,6 @@ PyDAFX (Python implementation of DAFX Matlab code)
 In order to study the theory and code of the book DAFX - Digital Audio Effects and python for audio processing,
 I'm doing the Python implementation of the MATLAB code from the book.
 
-[](<b>Run the code for this Repo on Binder:</b> [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/joserzapata/pydafx))
-
 This is a work in progress, the code is unfinished,  I'm doing this exercise in my free time and I hope that you can find this code useful!
 
 Book Reference:
