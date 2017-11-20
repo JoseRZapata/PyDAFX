@@ -1,8 +1,8 @@
 PyDAFX (Python implementation of DAFX Matlab code)
 ========================================================== 
 
-In order to study the theory and code of the book DAFX - Digital Audio Effects and python for audio processing,
-I'm doing the Python implementation of the MATLAB code from the book.
+In order to study the theory and code of the book DAFX - Digital Audio Effects and python 3 for audio processing,
+I'm doing the Python 3 implementation of the MATLAB code from the book.
 
 This is a work in progress, the code is unfinished,  I'm doing this exercise in my free time and I hope that you can find this code useful!
 
@@ -43,8 +43,8 @@ Chapters
 
 Software and packages
 ---------------------
-- Python 2.7.6
-- Ipython 5.1.0
-- Matplotlib 1.5.3
-- Scipy 0.18.1
-- Numpy 1.11.2
+- Python 3.4.3
+- Ipython 6.2.1
+- Matplotlib 2.1.0
+- Scipy 1.0.0
+- Numpy 1.13.3
